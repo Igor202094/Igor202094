@@ -1,3 +1,3 @@
-I'm currently learning React, Javascript. Technology lover. 
+I'm currently learning React and Javascript. Technology lover. 
 
 
